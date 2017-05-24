@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="str_btn_createaccount" type="id">cuenta</item>
+    <item name="str_tie_name" type="id">nombre</item>
+</resources>
